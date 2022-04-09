@@ -10,5 +10,5 @@
 - :nerd_face: Always `learning new things`
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=melanga&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="7oSkaaa" /></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melanga&langs_count=8&show_icons=true&hide_border=true&locale=en&layout=compact&theme=onedark&card_width=450px" alt="melanga's github stats" width="450px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melanga&langs_count=6&show_icons=true&hide_border=true&locale=en&layout=compact&theme=onedark&card_width=300px" alt="melanga's github stats"/>
 <img align="right" alt="melanga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melanga&hide_border=true&show_icons=true&count_private=true&theme=onedark&hide=contribs&custom_title=My Stats" />

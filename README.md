@@ -4,10 +4,10 @@
 
 ## 💁🏻‍♂️ About me
 
-- :school: I am a `Senior` at Faculty of Computer Science & Informatics at Uva Wellassa University
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
+- 👨🏻‍🎓 I am a `Undergraduate` at Department of Computer Science & Informatics at Uva Wellassa University pursuing my special degree in Industrial Information Technology(BIIT)
+- 👨🏻‍💻 I love programming and solving problems usign systemati approach 
+- 👨🏻‍🔬 I’m love learning about `computer science`, `machine learning`.
+- :nerd_face: I always like `learning new things`
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=melanga&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="7oSkaaa" /></p>
 <p align="center">

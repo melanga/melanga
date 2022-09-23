@@ -4,8 +4,8 @@
 
 ## 💁🏻‍♂️ About me
 
-- 👨🏻‍🎓 I am a `Undergraduate` at Department of Computer Science & Informatics at Uva Wellassa University pursuing my special degree in Industrial Information Technology(BIIT)
-- 👨🏻‍💻 I love programming and solving problems usign systemati approach 
+- 👨🏻‍🎓 I am a `Undergraduate` at Department of Computer Science & Informatics at Uva Wellassa University pursuing my special degree in Industrial Information Technology(BIIT).
+- 👨🏻‍💻 I love programming and solving problems usign systemati approach.
 - 👨🏻‍🔬 I’m love learning about `computer science`, `machine learning`, `Algorithms`.
 - :nerd_face: I always like `learning new things`.
 

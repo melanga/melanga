@@ -9,7 +9,7 @@
 - 👨🏻‍🔬 I love learning about `new technologies`, `computer science`, `machine learning`, and `algorithms`.
 - :nerd_face: I always like `learning new things`.
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=melanga&theme=onedark_duo&hide_border=true" alt="7oSkaaa" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=melanga&theme=onedark_duo&hide_border=true](http://github-readme-streak-stats.herokuapp.com?user=melanga&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="7oSkaaa" /></p>
 <p align="center">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=melanga&langs_count=6&show_icons=true&hide_border=true&locale=en&layout=compact&theme=onedark&card_width=300px" alt="melanga's github stats"/>
 <img height="180em"  alt="melanga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melanga&hide_border=true&show_icons=true&count_private=true&theme=onedark&hide=contribs&custom_title=My+Stats&hide_rank=true" />

@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Melanga Dissanayake! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&duration=3000&pause=100&color=00E5E5&center=true&vCenter=true&width=435&lines=IIT+Undergraduate;Full+Stack+Developer;ML+%26+AI+Enthusiast;Problem+Solver" alt="Typing SVG" /></a></div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&duration=3000&pause=100&color=00E5E5&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;ML+%26+AI+Enthusiast;Problem+Solver" alt="Typing SVG" /></a></div>
 
 ## 💁🏻‍♂️ About me
 

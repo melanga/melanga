@@ -4,7 +4,7 @@
 
 ## 💁🏻‍♂️ About me
 
-- 👨🏻‍🎓 I am an `Undergraduate` at the Department of Computer Science & Informatics at Uva Wellassa University pursuing B.Sc. (Hons) in Industrial Information Technology.
+- 👨🏻‍🎓 I am a `Software Engineer`...
 - 👨🏻‍💻 I love programming and love solving real world problems using a systematic approach.
 - 👨🏻‍🔬 I love learning about `new technologies`, `computer science`, `machine learning`, and `algorithms`.
 - :nerd_face: I always like `learning new things`.
